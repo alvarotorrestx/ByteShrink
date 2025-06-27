@@ -28,10 +28,7 @@ cmake_install.cmake
 Makefile
 
 # Visual Studio specific
-*.vcxproj*
-*.sln
 *.user
-*.filters
 *.opensdf
 *.sdf
 *.VC.db
